@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Slack</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,23 +13,42 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Open Slack
+2. In `Preferences`, go to `Themes` > `Create a custom theme`
+3. Copy and paste one of the themes below into `Custom theme`
+
+**Rosé Pine**
+
+```
+#191724,#191724,#2a2837,#9ccfd8,#211f2d,#e0def4,#f6c177,#31748f,#191724,#c4a7e7
+```
+
+**Rosé Pine Moon**
+
+```
+#232136,#232136,#312f44,#9ccfd8,#2a283d,#e0def4,#f6c177,#3e8fb0,#232136,#c4a7e7
+```
+
+**Rosé Pine Dawn**
+
+```
+#faf4ed,#faf4ed,#eee9e6,#56949f,#f2ede9,#575279,#ea9d34,#286983,#faf4ed,#907aa9
+```
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+**Rosé Pine**
+
+![Rosé Pine for Slack](assets/dark.png)
+
+**Rosé Pine Moon**
+
+![Rosé Pine Moon for Slack](assets/moon.png)
+
+**Rosé Pine Dawn**
+
+![Rosé Pine Dawn for Slack](assets/dawn.png)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- [fvrests](https://github.com/fvrests)
