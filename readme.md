@@ -16,6 +16,7 @@
 1. Open Slack
 2. In `Preferences`, go to `Themes` > `Create a custom theme`
 3. Copy and paste one of the themes below into `Custom theme`
+4. If you want to change the background of the main area, you can use a [CSS injector](https://github.com/openark/custom-slack-css) to add the contents of `rosepine.css`, `moon.css`, or `dawn.css`. For `rosepine.css` and `moon.css`, you'll need to be in dark mode, while for `dawn.css`, you'll need to be in light mode.
 
 **Rosé Pine**
 
@@ -39,16 +40,17 @@
 
 **Rosé Pine**
 
-![Rosé Pine for Slack](assets/dark.png)
+![ezgif-4-22e376e82d0e](https://user-images.githubusercontent.com/44733677/144293757-83876f73-aabd-4f1d-a165-952a767cb802.png)
 
 **Rosé Pine Moon**
 
-![Rosé Pine Moon for Slack](assets/moon.png)
+![ezgif-4-7b4b95703fc5](https://user-images.githubusercontent.com/44733677/144293972-478db0bb-38b6-438b-ad7c-ba8ff6e1b660.png)
 
 **Rosé Pine Dawn**
 
-![Rosé Pine Dawn for Slack](assets/dawn.png)
+![ezgif-4-7adb4f3d5101](https://user-images.githubusercontent.com/44733677/144294163-1b21e24f-60cc-41d0-81c0-d249a6bc021a.png)
 
 ## Thanks to
 
 - [fvrests](https://github.com/fvrests)
+- [thatonecalculator](https://t1c.dev)
